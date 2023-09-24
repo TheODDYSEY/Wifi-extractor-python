@@ -1,4 +1,4 @@
-# Wi-Fi Profile Extractor Readme
+# Wi-Fi Profile Extractor 
 
 ## Overview
 The Wi-Fi Profile Extractor is a Python script that allows you to extract saved Wi-Fi profiles and their associated passwords from Windows and Linux machines. It uses system-specific commands and file structures to retrieve this information.
